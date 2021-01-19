@@ -11,3 +11,5 @@ end
 
 def link
   statement = "It's dangerous to go alone! Take this."
+  puts statement
+end

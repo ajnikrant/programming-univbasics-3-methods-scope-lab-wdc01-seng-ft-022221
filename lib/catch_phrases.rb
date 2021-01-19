@@ -10,6 +10,6 @@ def toadstool
 end
 
 def link
-  statement = "It's dangerous To Go Alone! Take this."
+  statement = "It's Dangerous To Go Alone! Take this."
   puts statement
 end
